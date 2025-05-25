@@ -1,0 +1,82 @@
+[
+  {
+    "nama": "Black Forest",
+    "deskripsi": "Kue cokelat khas Jerman dengan lapisan krim dan ceri segar.",
+    "harga": "120000",
+    "rating": "4.8",
+    "asal": "Jerman",
+    "foto": "https://cdn1-production-images-kly.akamaized.net/Ifge_y_S72aQZmF4acxC9JBOnoE=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3596328/original/063430000_1633672941-IMG_8652.jpg"
+  },
+  {
+    "nama": "Cheesecake",
+    "deskripsi": "Kue lembut dengan rasa keju yang kaya dan creamy.",
+    "harga": "95000",
+    "rating": "4.6",
+    "asal": "Amerika Serikat",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Baked_cheesecake_with_raspberries_and_blueberries.jpg/1200px-Baked_cheesecake_with_raspberries_and_blueberries.jpg"
+  },
+  {
+    "nama": "Tiramisu",
+    "deskripsi": "Kue kopi khas Italia dengan keju mascarpone dan taburan cokelat.",
+    "harga": "110000",
+    "rating": "4.9",
+    "asal": "Italia",
+    "foto": "https://staticcookist.akamaized.net/wp-content/uploads/sites/22/2024/09/THUMB-VIDEO-2_rev1-56.jpeg?im=Resize,width=742;"
+  },
+  {
+    "nama": "Opera Cake",
+    "deskripsi": "Kue berlapis khas Prancis dengan kopi dan cokelat ganache.",
+    "harga": "125000",
+    "rating": "4.7",
+    "asal": "Prancis",
+    "foto": "https://thecakegirls.com/wp-content/uploads/2024/12/Opera-Cake.jpg"
+  },
+  {
+    "nama": "Red Velvet",
+    "deskripsi": "Kue merah lembut dengan krim keju di tengah dan atas.",
+    "harga": "105000",
+    "rating": "4.5",
+    "asal": "Amerika Serikat",
+    "foto": "https://thescranline.com/wp-content/uploads/2023/06/RED-VELVET-CAKE-23-S-01-500x500.jpg"
+  },
+  {
+    "nama": "Matcha Cake",
+    "deskripsi": "Kue rasa green tea khas Jepang dengan krim matcha.",
+    "harga": "115000",
+    "rating": "4.4",
+    "asal": "Jepang",
+    "foto": "https://zhangcatherine.com/wp-content/uploads/2022/11/12001200-3.jpg"
+  },
+  {
+    "nama": "Rainbow Cake",
+    "deskripsi": "Kue warna-warni ceria dengan rasa vanila dan krim lembut.",
+    "harga": "99000",
+    "rating": "4.2",
+    "asal": "Indonesia",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLRBTISL6Ny0YGaUet8XnLqWwF61MCSS4_4g&s"
+  },
+  {
+    "nama": "Strawberry Shortcake",
+    "deskripsi": "Kue krim segar dengan lapisan stroberi manis.",
+    "harga": "98000",
+    "rating": "4.6",
+    "asal": "Jepang",
+    "foto": "https://www.allrecipes.com/thmb/0kfzN0CBam7vTnAnWXpvoFIY2e8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8201-strawberry-shortcake-ddmfs-5775-hero-3x4-47272b202c594de0a4221f3a7cab4087.jpg"
+  },
+  {
+    "nama": "Carrot Cake",
+    "deskripsi": "Kue wortel lembut dengan krim keju dan kayu manis.",
+    "harga": "87000",
+    "rating": "4.3",
+    "asal": "Swiss",
+    "foto": "https://asset.kompas.com/crops/2x7Ol_w2wg8Mziy6BKMosC3q3Bw=/0x0:1000x667/1200x800/data/photo/2021/06/25/60d5559ccb16c.jpg"
+  },
+  {
+    "nama": "Lapis Legit",
+    "deskripsi": "Kue tradisional Indonesia dengan banyak lapisan dan rasa rempah.",
+    "harga": "130000",
+    "rating": "4.9",
+    "asal": "Indonesia",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdXSFerG-T1niGK7bX8_yvnik7CyeIKKGoQ&s"
+  }
+]
