@@ -1,0 +1,82 @@
+[
+  {
+    "nama": "Black Forest",
+    "deskripsi": "Kue cokelat khas Jerman dengan lapisan krim dan ceri segar.",
+    "harga": "120000",
+    "rating": "4.8",
+    "asal": "Jerman",
+    "foto": "https://i.ibb.co/ZYW3VTp/blackforest.jpg"
+  },
+  {
+    "nama": "Cheesecake",
+    "deskripsi": "Kue lembut dengan rasa keju yang kaya dan creamy.",
+    "harga": "95000",
+    "rating": "4.6",
+    "asal": "Amerika Serikat",
+    "foto": "https://i.ibb.co/4FjRNRM/cheesecake.jpg"
+  },
+  {
+    "nama": "Tiramisu",
+    "deskripsi": "Kue kopi khas Italia dengan keju mascarpone dan taburan cokelat.",
+    "harga": "110000",
+    "rating": "4.9",
+    "asal": "Italia",
+    "foto": "https://i.ibb.co/yWzQpZJ/tiramisu.jpg"
+  },
+  {
+    "nama": "Opera Cake",
+    "deskripsi": "Kue berlapis khas Prancis dengan kopi dan cokelat ganache.",
+    "harga": "125000",
+    "rating": "4.7",
+    "asal": "Prancis",
+    "foto": "https://i.ibb.co/WF2qPbF/operacake.jpg"
+  },
+  {
+    "nama": "Red Velvet",
+    "deskripsi": "Kue merah lembut dengan krim keju di tengah dan atas.",
+    "harga": "105000",
+    "rating": "4.5",
+    "asal": "Amerika Serikat",
+    "foto": "https://i.ibb.co/zrw6Qy2/redvelvet.jpg"
+  },
+  {
+    "nama": "Matcha Cake",
+    "deskripsi": "Kue rasa green tea khas Jepang dengan krim matcha.",
+    "harga": "115000",
+    "rating": "4.4",
+    "asal": "Jepang",
+    "foto": "https://i.ibb.co/N3xW1mp/matchacake.jpg"
+  },
+  {
+    "nama": "Rainbow Cake",
+    "deskripsi": "Kue warna-warni ceria dengan rasa vanila dan krim lembut.",
+    "harga": "99000",
+    "rating": "4.2",
+    "asal": "Indonesia",
+    "foto": "https://i.ibb.co/YZ2j7Hz/rainbowcake.jpg"
+  },
+  {
+    "nama": "Strawberry Shortcake",
+    "deskripsi": "Kue krim segar dengan lapisan stroberi manis.",
+    "harga": "98000",
+    "rating": "4.6",
+    "asal": "Jepang",
+    "foto": "https://i.ibb.co/d4Df7zC/strawberryshortcake.jpg"
+  },
+  {
+    "nama": "Carrot Cake",
+    "deskripsi": "Kue wortel lembut dengan krim keju dan kayu manis.",
+    "harga": "87000",
+    "rating": "4.3",
+    "asal": "Swiss",
+    "foto": "https://i.ibb.co/dfxK6Fb/carrotcake.jpg"
+  },
+  {
+    "nama": "Lapis Legit",
+    "deskripsi": "Kue tradisional Indonesia dengan banyak lapisan dan rasa rempah.",
+    "harga": "130000",
+    "rating": "4.9",
+    "asal": "Indonesia",
+    "foto": "https://i.ibb.co/6X1Z7Bd/lapislegit.jpg"
+  }
+]
