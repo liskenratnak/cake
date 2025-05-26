@@ -1,0 +1,50 @@
+[
+  {
+    "nama": "Pulpen",
+    "deskripsi": "Pulpen tinta hitam dengan ujung halus, cocok untuk menulis cepat.",
+    "harga": "Rp3.000",
+    "rating": "4.5",
+    "asal": "Indonesia",
+    "gambar": "https://siopen.hulusungaiselatankab.go.id/storage/merchant/products/2022/10/10/09d38fad018f5fe13dd5eb2edbc1afec.jpg"
+  },
+  {
+    "nama": "Pensil HB",
+    "deskripsi": "Pensil berkualitas untuk menggambar dan menulis.",
+    "harga": "Rp2.000",
+    "rating": "4.7",
+    "asal": "Indonesia",
+    "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb6nylY3Sod7TRJc8G_29U_IE8lro5DJ4E2w&s"
+  },
+  {
+    "nama": "Buku Tulis",
+    "deskripsi": "Buku tulis 38 lembar dengan sampul bergambar.",
+    "harga": "Rp4.500",
+    "rating": "4.6",
+    "asal": "Indonesia",
+    "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCQUiFw9E1yLZQXWVqM65lMaAqqxvvv6jcw&s"
+  },
+  {
+    "nama": "Penghapus",
+    "deskripsi": "Penghapus karet lembut tidak merusak kertas.",
+    "harga": "Rp1.500",
+    "rating": "4.3",
+    "asal": "Thailand",
+    "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXvXIOn2ZZUwKlnFC6ZcdR8PIILApjWAEuQ&s"
+  },
+  {
+    "nama": "Penggaris",
+    "deskripsi": "Penggaris plastik 30 cm untuk keperluan sekolah.",
+    "harga": "Rp3.000",
+    "rating": "4.2",
+    "asal": "Indonesia",
+    "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrAjcUNB70evihG0Cf_-r4BsO9rZY8T5VAiQ&s"
+  },
+  {
+    "nama": "Stabilo",
+    "deskripsi": "Spidol penyorot teks warna-warni.",
+    "harga": "Rp6.000",
+    "rating": "4.8",
+    "asal": "Jerman",
+    "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4D6-8-87UnyU_VUxgCXAyPms3tYYi8rDEdg&s"
+  }
+]
